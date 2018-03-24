@@ -2,6 +2,8 @@
 
 This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree 5.
 
+https://eg.udacity.com/course/material-design-for-android-developers--ud862
+
 ## What  i will learn?
 
 (FloatingActionButton, AppBarLayout, SnackBar, Toolbar, AppCompact, CoordinatorLayout, Animation, Adaptive Design, fonts).
