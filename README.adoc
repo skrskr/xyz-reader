@@ -1,3 +1,14 @@
 = XYZ Reader Starter Code
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree 5.
+
+## What  i will learn?
+
+(FloatingActionButton, AppBarLayout, SnackBar, Toolbar, AppCompact, CoordinatorLayout, Animation, Adaptive Design, fonts).
+
+## Screens:)
+
+
+Main Activity:   https://user-images.githubusercontent.com/15523129/37867511-39660fe0-2fa2-11e8-9e92-024e24e5d9a2.png
+
+Detail Acitivity:  https://user-images.githubusercontent.com/15523129/37867509-379f9410-2fa2-11e8-8476-b841f9fa1b9b.png
